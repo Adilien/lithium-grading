@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=BuyLithium
+comment0.text=\r\n\ This\ class\ offers\ a\ buyer\ a\ chance\ to\ see\ all\ lithium\ which\ is\ the\ same\ or\ lower\r\n\ than\ the\ price\ they\ give\ and\ to\ also\ see\ how\ many\ choices\ are\ available.\r\n\ \r\n\ They\ can\ also\ enter\ a\ lithium\ grade\ and\ see\ all\ the\ lithium\ grades\ which\ are\ the\r\n\ samegrade\ as\ the\ buyer\ entered\ and\ also\ grades\ which\ are\ of\ a\ higher\ grade.\ \r\n\ They\ can\ also\ see\ how\ many\ choices\ are\ available.\r\n\r\n\ @author\ (Adil\ Jawad)\r\n\ @version\ (13/10/19)\r\n
+comment1.params=
+comment1.target=BuyLithium()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ BuyLithium.\r\n
+comment2.params=price
+comment2.target=void\ findBestPrice(int)
+comment2.text=\r\n\ If\ the\ price\ of\ each\ lithium\ grade\ is\ in\ the\ range\ of\ the\ price\r\n\ before\ the\ next\ price\ boundary,\ counter\ is\ incremented\ and\r\n\ that\ particular\ lithium\ is\ printed\ with\ its\ grade\ and\ price\ in\ 2\ decimal\r\n\ places.\r\n\ \r\n\ @param\ price\ The\ buyer\ enters\ the\ price\ to\ see\ all\ lithium\ which\ is\ the\ same\ \r\n\ or\ lower\ than\ the\ price\ they\ give.\r\n
+comment3.params=grade
+comment3.target=void\ findHighQuality(int)
+comment3.text=\r\n\ @param\ grade\ Buyer\ can\ enter\ a\ lithium\ grade\ and\ see\ all\ the\ lithium\ grades\ \r\n\ which\ are\ the\ same\ as\ the\ grade\ entered\ and\ also\ grades\ which\ are\ of\ a\ higher\ \r\n\ grade.\ They\ can\ also\ see\ how\ many\ choices\ are\ available.\ \r\n
+numComments=4

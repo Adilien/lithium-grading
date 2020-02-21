@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=LithiumGrading
+comment0.text=\r\n\ This\ class\ uses\ the\ tray\ of\ lithium\ in\ GenerateLithium\ to\ grade\ lithium.\r\n\r\n\ @author\ (Adil\ Jawad)\r\n\ @version\ (13/10/19)\r\n
+comment1.params=
+comment1.target=LithiumGrading()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ LithiumGrading\r\n
+comment2.params=lithiumTray
+comment2.target=void\ generateGrades(int[][])
+comment2.text=\r\n\ Accepts\ lithium\ tray\ and\ looks\ at\ the\ grade\ of\ each\ lithium\ to\ see\ if\ it\ is\r\n\ high\ quality\ or\ not.\ It\ is\ added\ in\ the\ highGrade\ arraylist\ if\ it\ is\ over\ 25\r\n\ and\ added\ to\ lowGrade\ if\ it\ is\ lower\ than\ 25\ or\ 25.\r\n\ \r\n\ @param\ lithiumTray[][]\ accepts\ the\ two-dimesional\ array\ with\ the\ lithium\r\n\ to\ make\ decision\ whether\ it\ is\ high\ quality\ or\ low\ quality.\r\n
+comment3.params=
+comment3.target=void\ sortingLithium()
+comment3.text=\r\n\ Sorts\ both\ arraylists\ (highGrade\ and\ lowGrade)\ in\ ascending\ order\ using\r\n\ bubble\ sort.\r\n
+numComments=4

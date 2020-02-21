@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=LithiumPricing
+comment0.text=\r\n\ This\ class\ ensures\ each\ lithium\ is\ given\ a\ price.\r\n\r\n\ @author\ (Adil\ Jawad)\r\n\ @version\ (13/10/19)\r\n
+comment1.params=
+comment1.target=LithiumPricing()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ LithiumPricing\r\n
+comment2.params=lithiumTray
+comment2.target=void\ setPrice(int[][])
+comment2.text=\r\n\ Checking\ to\ see\ if\ each\ grade\ in\ each\ position\ of\ the\ two-dimensional\ array\ is\ \r\n\ in\ a\ specific\ range\ so\ that\ prices\ can\ be\ assigned.\ \r\n\ \r\n\ @param\ lithiumTray[][]\ takes\ in\ the\ two-dimensional\ array\ containing\ lithium.\r\n
+comment3.params=
+comment3.target=void\ printPrice()
+comment3.text=\r\n\ Printing\ the\ hashmap\ to\ display\ each\ lithium\ grade\ with\ its\ price\ in\ 2\ decimal\r\n\ places.\r\n
+numComments=4
